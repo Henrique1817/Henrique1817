@@ -1,3 +1,65 @@
+# Hi, I'm Henrique Miguel! 👋
+**Data Analyst | Front-End Developer | Evolving Programmer**
+
+I'm a professional passionate about transforming data into actionable insights and creating intuitive and efficient web interfaces. My journey is driven by curiosity and a commitment to continuous learning.
+
+## 🛠️ Technologies and Tools
+
+### **Data Analysis & BI**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white)
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique1817&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+🚀 What I'm Learning
+- ✅ **Current focus:** Power BI, HTML5, CSS3, JavaScript, Python, C++
+- 🔄 **Deepening knowledge in:** Next.js, React, Advanced Data Analysis
+- 📚 **Next steps:** Machine Learning, TypeScript, Databases
+
+## 📈 Growth Goals
+
+```python
+class Metas2026:
+    def __init__(self):
+        self.analise_dados = [
+            "Complex dashboards in Power BI",
+            "Predictive analyses with Python",
+            "Advanced SQL"
+        ]
+        self.desenvolvimento = [
+            "Full-stack projects with Next.js",
+            "TypeScript in production",
+            "RESTful APIs"
+        ]
+        self.fundamentos = [
+            "Data structures in C++",
+            "Optimized algorithms",
+            "Software architecture"
+        ]
+    
+    def estudar(self):
+        return "📖 Studying every day to improve!"
+
+minhas_metas = Metas2026()
+```
+
 # Olá, eu sou Henrique Miguel! 👋
 
 **Analista de Dados | Desenvolvedor Front-End | Programador em Evolução**
@@ -39,7 +101,7 @@ Sou um profissional apaixonado por transformar dados em insights acionáveis e p
 ## 📈 Metas de Evolução
 
 ```python
-class Metas2024:
+class Metas2026:
     def __init__(self):
         self.analise_dados = [
             "Dashboard complexos no Power BI",
@@ -60,4 +122,4 @@ class Metas2024:
     def estudar(self):
         return "📖 Estudando todos os dias para evoluir!"
 
-minhas_metas = Metas2024()
+minhas_metas = Metas2026()
