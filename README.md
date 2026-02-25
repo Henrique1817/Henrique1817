@@ -47,7 +47,7 @@ class Metas2026:
         self.desenvolvimento = [
             "Full-stack projects with Next.js",
             "TypeScript in production",
-            "RESTful APIs"
+            "RESTful APIs / GraphQL"
         ]
         self.fundamentos = [
             "Data structures in C++",
@@ -107,17 +107,21 @@ class Metas2026:
         self.analise_dados = [
             "Dashboard complexos no Power BI",
             "Análises preditivas com Python",
-            "SQL avançado"
+            "SQL avançado",
+            "Processo de ETl"
         ]
         self.desenvolvimento = [
             "Projetos full-stack com Next.js",
             "TypeScript em produção",
-            "APIs RESTful"
+            "APIs RESTful / GraphQL",
+            "Desenvolvimento Web com SEO",
+            "Campanhas de Criativos"
         ]
         self.fundamentos = [
             "Estruturas de dados em C++",
             "Algoritmos otimizados",
-            "Arquitetura de software"
+            "Arquitetura de software",
+            "Engenharia de Banco de Dados"
         ]
     
     def estudar(self):
